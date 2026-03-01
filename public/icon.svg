@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0a0a0f"/>
+  <rect x="16" y="16" width="480" height="480" rx="48" fill="none" stroke="#004d14" stroke-width="4"/>
+  <text x="256" y="200" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="120" fill="#00ff41">AI</text>
+  <polyline points="80,340 160,300 240,360 320,280 400,320 432,260" fill="none" stroke="#00ff41" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="440" text-anchor="middle" font-family="monospace" font-size="48" fill="#00aa2a">STOCK WARS</text>
+</svg>

@@ -1,0 +1,15 @@
+:root {
+  --green: #00ff41;
+  --green-dim: #00aa2a;
+  --green-dark: #004d14;
+  --red: #ff3e3e;
+  --amber: #ffb700;
+  --cyan: #00e5ff;
+  --magenta: #ff00ff;
+  --bg: #0a0a0f;
+  --bg-panel: #0d0d18;
+  --bg-panel-hover: #12122a;
+  --border: #1a1a2e;
+  --text: #c0c0d0;
+  --text-dim: #5a5a7a;
+}
